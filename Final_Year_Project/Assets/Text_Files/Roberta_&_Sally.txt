@@ -1,0 +1,24 @@
+[NAME=DETECTIVE SMITH]Hello Sally, my name is detective Smith. We are meeting today to take your statement... 
+with regards to the death of Jess Huyton, as you heard that we found her this morning. 
+Please take your time, you can take a break at any point. I understand how difficult this must be for you, and... 
+I want to thank you for your cooperation within this investigation. 
+This interview will be video-recorded and my colleague who will also be present during the interview may interrupt to also ask some questions.
+To begin, Sally, please describe the nature of your relationship with Kate.
+[NAME=Sally]Hello, I’m Sally and I’m a colleague and friend of Jess. I have known her for years now and we’ve been working together for the last 5 years. 
+On that Friday 13 th of September, after work, we had an office party in town and we went there together.
+[NAME=DETECTIVE SMITH]Could you please describe Jess to us?
+[NAME=Sally]Jess was 25, yes, she was quite pretty, she had nice long hair. She was very slim. She was also friendly.
+We talked quite a lot on that night, we are both single and we were talking about how it can be difficult to meet someone these days. 
+Her parents had bought her this lovely ring with a ruby and pearl earrings and she was wondering if one day, she would get to wear a wedding ring…… of this is so sad…
+[NAME=DETECTIVE SMITH]Just take your time, Sally... So what happened at the end of the party? How did she leave?
+[NAME=Sally]She didn’t live very far and usually she would take a taxi, but she decided to walk off the alcohol and have some fresh air. 
+I had asked her to text me when she got home but she never did. It was probably 02.00AM.
+[NAME=DETECTIVE SMITH]Do you think she may have got in a taxi?
+[NAME=Sally]No, I don’t think she would. I would assume that someone had to force her in a car, she wouldn’t have gotten I a stranger’s car at that time of night! 
+I wouldn’t say she looked very strong. 
+I don’t think that it would have been difficult to overpower her or to carry her in a car you know.
+[NAME=DETECTIVE SMITH]It is possible. Thank you very much for your help. Is there anything else you can think of?
+[NAME=Sally]Not really, I’m just so shocked by what happened, this is so scary.
+[NAME=DETECTIVE SMITH]Well, if you remember anything else then just give us a call.
+[NAME=Sally]I will officer, thank you. Goodbye
+[NAME=DETECTIVE SMITH]Goodbye

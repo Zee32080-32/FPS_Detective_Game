@@ -1,0 +1,3 @@
+[NAME=PLAYER]Hello Dr Gerard, have you managed to complete the autopsy report?
+[NAME=DR.Gerrard]I have just finished. Here you are, you can have a look at it.[Display Web Link]
+[Player Ask Question]

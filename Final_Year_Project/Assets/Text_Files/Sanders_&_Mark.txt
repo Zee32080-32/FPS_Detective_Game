@@ -1,0 +1,15 @@
+[NAME=Sanders]Hello, I am detective Sanders. We are meeting today to take your statement about the last time you saw Miss Walsh, on Saturday 9th of June. 
+As I told you before the interview, we have reasons to believe that Mary Walsh was murdered. Thank you for your cooperation in this investigation. 
+This interview will be video-recorded and my colleague who will also be present during the interview may interrupt to ask some questions. 
+Can I ask you to say who you are and what is your relationship to Mary? 
+[NAME=Mark]Hello, I’m Mark and I was at the party in the park on the 09th of June. I knew Mary, she was in biology class with me. 
+I was actually very surprised to see her at the party because she wasn’t the type to go out, she was pretty “uptight”.  
+During the evening, I saw a guy who seemed a bit older than us, he was not one of the students and he didn’t seem to know anyone. 
+At first, I thought he was a passer-by, but I got the impression that he wanted to pretend to be part of the party. 
+I saw him talking to Mary at some point and I think he was kind of pissing her off. I didn’t see Mary anymore after that. 
+I didn’t tell anyone because I didn’t think it was important. But when I’ve heard about her death, I remembered that detail. But that’s it….
+as it happened a while ago, I couldn’t even describe the bloke anymore…and I didn’t go talk to him. 
+[NAME=Sanders]At this point, we want to try and understand what might have happened on that night so thank you very much for your testimony. 
+[NAME=Mark]You are welcome. 
+[NAME=Sanders]Thank you. You are free to go now. Goodbye. 
+[NAME=Mark]Thank you goodbye

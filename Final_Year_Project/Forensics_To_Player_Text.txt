@@ -1,0 +1,3 @@
+Hello Dr Gerard, have you managed to complete the autopsy report?
+Yes, I have just finished. Here you are, you can have a look at it.
+[End discussion]
